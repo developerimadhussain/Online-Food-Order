@@ -3,8 +3,6 @@
 
 **Online Food Order** is a web-based platform designed to streamline the food ordering process for restaurants. With a user-friendly interface, customers can browse food items, add them to their cart, and place orders online. The platform supports three user roles—Admin, Employee, and Normal User—each with specific functionalities to ensure a smooth and efficient experience.
 
-/*## 🔗 Live Site
-[Visit Online Food Order Live Site](https://your-live-site-link.com) *(Add your live site link here)**/
 
 ## 🚀 Key Features
 
